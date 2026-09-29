@@ -1,4 +1,4 @@
-I will add more proxies soon, checking like 100,000 proxies takes time but wont take hours so expect more.
+I will add more proxies every now and then. Checking like 100,000 proxies takes time but wont take hours so expect more.
 If a proxy dosen't work, just try a different proxy
 
 Checked: This means i manually checked them using mullvad browser and they DO WORK for browsing and visiting websites
