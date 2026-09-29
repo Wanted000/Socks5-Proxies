@@ -1,6 +1,9 @@
 I will add more proxies soon, checking like 100,000 proxies takes time but wont take hours so expect more.
 If a proxy dosen't work, just try a different proxy
 
+Checked: This means i manually checked them using mullvad browser and they DO WORK for browsing and visiting websites
+Unchecked: This means i still did check them using a tool i made, but DID NOT test them using mullvad browser.
+
 Fast Confirmed/Checked Proxies:
 193.25.215.182:22222
 107.167.18.122:443
