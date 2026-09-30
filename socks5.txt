@@ -20,3 +20,5 @@ Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 68.183.130.198:10000
 68.183.27.147:10000
 68.183.22.37:10000
+68.183.17.102:10000
+
