@@ -9,5 +9,7 @@ Fast Confirmed/Checked Proxies:
 
 Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 107.174.30.92:1080
-198.46.175.249:1082
 85.209.156.148:1080
+192.210.178.88:1080
+23.142.36.180:1080
+157.180.24.140:11113
