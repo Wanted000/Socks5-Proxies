@@ -6,9 +6,9 @@ Unchecked: This means i still did check them using a tool i made, but DID NOT te
 
 Fast Confirmed/Checked Proxies:
 193.25.215.182:22222
+158.101.15.1:443
 
 Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-158.101.15.1:443
 129.146.121.2:10808
 160.30.204.24:50001
 160.30.204.24:50009
