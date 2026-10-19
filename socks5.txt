@@ -5,9 +5,16 @@ Checked: This means i manually checked them using mullvad browser and they DO WO
 Unchecked: This means i still did check them using a tool i made, but DID NOT test them using mullvad browser.
 
 Fast Confirmed/Checked Proxies:
+193.25.215.182:22222
 
 Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-150.136.58.221:1080
-158.101.15.1:443
 67.207.92.87:1088
-66.94.112.133:1088
+158.101.15.1:443
+129.146.121.2:10808
+160.30.204.24:50001
+160.30.204.24:50009
+159.65.105.142:1080
+23.95.226.15:1080
+139.177.151.70:1080
+155.138.221.32:1082
+64.176.221.15:1080
