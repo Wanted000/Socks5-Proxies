@@ -4,6 +4,8 @@ If a proxy dosen't work, just try a different proxy
 Checked: This means i manually checked them using mullvad browser and they DO WORK for browsing and visiting websites
 Unchecked: This means i still did check them using a tool i made, but DID NOT test them using mullvad browser.
 
+(THIS IS AS FAST AS THEY GET, DONT ACT LIKE SAMI REHMAN AND BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD)
+
 Fast Confirmed/Checked Proxies:
 193.25.215.182:22222
 129.146.121.2:10808
