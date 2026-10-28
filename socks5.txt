@@ -10,10 +10,8 @@ Fast Confirmed/Checked Proxies:
 193.25.215.182:22222
 
 Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-156.246.16.88:1080
 208.92.216.54:1080
 20.121.179.183:3001
-113.20.13.208:1083
 20.75.169.229:3000
 20.121.179.183:3000
 69.55.49.177:38182
