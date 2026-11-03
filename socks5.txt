@@ -14,4 +14,3 @@ Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 23.254.233.221:1080
 69.55.49.177:38182
 107.174.30.92:1080
-195.201.246.53:1083
