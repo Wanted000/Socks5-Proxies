@@ -8,11 +8,11 @@ Unchecked: This means i still did check them using a tool i made, but DID NOT te
 
 Fast Confirmed/Checked Proxies:
 193.25.215.182:22222
+50.114.167.149:1083
+69.55.49.177:38182
 
 Fast Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-50.114.167.149:1083
 209.50.255.91:1080
-69.55.49.177:38182
 142.93.65.222:1088
 107.174.30.92:1080
 72.131.213.139:1080
