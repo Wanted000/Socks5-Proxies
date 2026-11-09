@@ -1,13 +1,13 @@
-I will add more proxies every now and then. Checking like 10,000 proxies takes time but wont take hours so expect more.
-If a proxy dosen't work, just try a different proxy
+I will add more proxies every now and then. Checking like 10,000 proxies takes time but won't take hours, so expect more.
+If a proxy doesn't work, just try a different proxy
 
-Checked: This means i manually checked them using mullvad browser and they DO WORK for browsing and visiting websites
-Unchecked: This means i still did check them using a tool i made, but DID NOT test them using mullvad browser.
-Fast-Speed: These are proxies that are faster than others and let you browse and/or go to websites faster, so it basicaly loads websites faster.
+Checked: This means I manually checked them using the Mullvad browser and they DO WORK for browsing and visiting websites
+Unchecked: This means I still did check them using a tool I made, but DID NOT test them using Mullvad Browser.
+Fast-Speed: These are proxies that are faster than others and let you browse and/or go to websites faster, so it basically loads websites faster.
 Normal-Speed: These are proxies that have an average speed, so not slow but not fast.
 
 
-(THIS IS AS FAST AS THEY GET, DONT BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD)
+(THIS IS AS FAST AS THEY GET, DON'T BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD)
 
 Fast-Speed Confirmed/Checked Proxies:
 193.25.215.182:22222
