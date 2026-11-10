@@ -13,7 +13,6 @@ Normal-Speed: These are proxies that have an average speed, so not slow but not 
 
 Fast-Speed Confirmed/Checked Proxies:
 193.25.215.182:22222
-4.255.114.124:3001
 
 Normal-Speed Confirmed/Checked Proxies:
 172.171.169.205:3000
@@ -25,3 +24,4 @@ Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 107.174.30.92:1080
 13.90.182.199:3001
 74.208.36.166:1080
+4.255.114.124:3001
