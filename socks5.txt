@@ -15,10 +15,10 @@ Fast-Speed Confirmed/Checked Proxies:
 193.25.215.182:22222
 
 Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-20.121.252.238:3001
 4.255.114.124:3001
-13.90.182.199:3001
+20.121.252.238:3001
 172.171.169.205:3001
+13.90.182.199:3001
 13.90.182.199:3000
 172.171.169.205:3000
 69.55.49.177:38182
