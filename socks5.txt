@@ -10,7 +10,7 @@ Normal-Speed: These are proxies that have an average speed, so not slow but not 
 
 (THIS IS AS FAST AS THEY GET, DON'T BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD)
 
-Fast-Speed Confirmed/Checked Proxies:
+Fast-Speed Confirmed/Checked Proxies (Best to use):
 193.25.215.182:22222
 45.61.188.134:44499
 
