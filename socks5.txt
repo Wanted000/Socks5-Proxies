@@ -21,8 +21,6 @@ Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 
 
 Normal-Speed Confirmed/Checked Proxies:
-
-
-Normal-Speed Unconfirmed/Unchecked Proxies:
 24.121.176.155:1080
 
+Normal-Speed Unconfirmed/Unchecked Proxies:
