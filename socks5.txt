@@ -15,11 +15,8 @@ Fast-Speed Confirmed/Checked Proxies (Best to use):
 45.61.188.134:44499
 
 Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-160.30.204.24:30000
 209.50.255.91:1080
-208.180.243.187:1080
 
 Normal-Speed Confirmed/Checked Proxies:
-24.121.176.155:1080
 
 Normal-Speed Unconfirmed/Unchecked Proxies:
