@@ -8,7 +8,7 @@ Unchecked: This means I still did check them using a tool I made, but DID NOT te
 Fast-Speed: These are proxies that are faster than others and let you browse and/or go to websites faster, so it basically loads websites faster.
 Normal-Speed: These are proxies that have an average speed, so not slow but not fast.
 
-(THIS IS AS FAST AS THEY GET, DON'T BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD)
+(THIS IS AS FAST AS THEY GET, DON'T BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD.)
 
 Proxies that MIGHT work for snapchat:
 193.25.215.182:22222
