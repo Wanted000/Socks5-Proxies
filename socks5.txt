@@ -1,5 +1,5 @@
-I will add more proxies every now and then. Checking like 10,000 proxies takes time but won't take hours, so expect more.
-If a proxy doesn't work, just try a different proxy
+I will add more proxies every now and then. Checking like Thousands of proxies takes time but won't take hours, so expect more.
+If a proxy doesn't work, just use a different proxy
 
 If you use a proxy that says that it is confirmed it is working and fast but a website you visit doesn't load fast enough, that doesn't mean the proxy is slow; it just happens sometimes for certain websites. It can be fast for some websites and slow for some.
 
@@ -10,22 +10,28 @@ Normal-Speed: These are proxies that have an average speed, so not slow but not 
 
 (THIS IS AS FAST AS THEY GET, DON'T BE INSANELY IMPATIENT FOR A WEBSITE TO LOAD.)
 
-Proxies that MIGHT work for snapchat:
+Proxies that MIGHT work for Snapchat:
 193.25.215.182:22222
 209.50.255.91:1080
 155.138.221.32:1082
 
-Fast-Speed Confirmed/Checked Proxies (Best to use):
-193.25.215.182:22222
-
-Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
-155.138.221.32:1082
-69.55.49.177:38182
-107.174.30.94:1080
-107.174.30.92:1080
-
-Normal-Speed Confirmed/Checked Proxies:
-
-Normal-Speed Unconfirmed/Unchecked Proxies:
-146.235.220.197:1082
-72.223.61.88:1080
+_______________________________________|_______________________________________
+|    Fast Confirmed Working Proxies    |       Fast Unconfirmed Proxies       |
+|         193.25.215.182:22222         |         155.138.221.32:1082          |
+|                                      |         69.55.49.177:38182           |
+|                                      |         107.174.30.94:1080           |
+|                                      |         107.174.30.92:1080           |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|--------------------------------------|--------------------------------------|
+_______________________________________|_______________________________________
+|   Normal Confirmed Working Proxies   |      Normal Unconfirmed Proxies      |
+|         72.223.61.88:1080            |         146.235.220.197:1082         |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|--------------------------------------|--------------------------------------|
