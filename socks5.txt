@@ -27,7 +27,7 @@ _______________________________________|_______________________________________
 |--------------------------------------|--------------------------------------|
 _______________________________________|_______________________________________
 |   Normal Confirmed Working Proxies   |      Normal Unconfirmed Proxies      |
-|         72.223.61.88:1080            |         209.50.255.91:1080           |
+|                                      |         209.50.255.91:1080           |
 |                                      |                                      |
 |                                      |                                      |
 |                                      |                                      |
@@ -44,7 +44,7 @@ Fast-Speed Unconfirmed/Unchecked Proxies (Still a high chance they will work)
 45.61.129.165:9050
 
 Normal-Speed Confirmed/Checked Proxies:
-72.223.61.88:1080
+
 
 Normal-Speed Unconfirmed/Unchecked Proxies:
 209.50.255.91:1080
